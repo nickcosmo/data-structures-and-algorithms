@@ -1,6 +1,6 @@
- # Data Structures and Algorithms
+# Data Structures and Algorithms
 
- This is a repo with all exercises completed from [this data structures and algorithms course](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) on Udemy.
+This is a repo with all exercises completed from [this data structures and algorithms course](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) on Udemy.
 
  ### Topics Covered
 
